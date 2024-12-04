@@ -6,8 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "MyActor.generated.h"
 
-static ConstructorHelpers::FObjectFinder<UStaticMesh>
-	box_mesh(TEXT("StaticMesh'/Game/Box.Box"));
+
 
 UCLASS()
 class VR_PROJECT_TEST_API AMyActor : public AActor
@@ -27,6 +26,9 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	//Components and Variables
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "LOD")
+	UStaticMeshComponent* MeshComponent;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "LOD", meta = (DisplayName = "High LOD Mesh"))
 	UStaticMesh* HighLOD;
 

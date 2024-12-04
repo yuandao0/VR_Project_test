@@ -2,19 +2,19 @@
     "configurations": [
         {
             "name": "VR_Project_testEditor Editor Win64 Development (VR_Project_test)",
-            "compilerPath": "D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test.json"
+            "compileCommands": "D:\\Documents\\GitHub\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test.json"
         },
         {
             "name": "Win32",
-            "compilerPath": "D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "D:\\Documents\\GitHub\\VR_Project_test\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

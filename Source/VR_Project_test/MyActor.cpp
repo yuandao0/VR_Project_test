@@ -31,11 +31,6 @@ void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	//Set the initial mesh
-	if (HighLOD)
-	{
-		MeshComponent->SetStaticMesh(HighLOD);
-	}
 	
 }
 
