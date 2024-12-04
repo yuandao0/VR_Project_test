@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Shared\\UE5\\VR_Project_test\\Source\\VR_Project_test\\MyActor.cpp",
+		"arguments": [
+			"D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test\\VR_Project_test.1.rsp"
+		],
+		"directory": "D:\\SoftWare\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Shared\\UE5\\VR_Project_test\\Source\\VR_Project_test\\MyActor.h",
+		"arguments": [
+			"D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test\\VR_Project_test.1.rsp"
+		],
+		"directory": "D:\\SoftWare\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Shared\\UE5\\VR_Project_test\\Source\\VR_Project_test\\VR_Project_test.Build.cs",
+		"arguments": [
+			"D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test\\VR_Project_test.1.rsp"
+		],
+		"directory": "D:\\SoftWare\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Shared\\UE5\\VR_Project_test\\Source\\VR_Project_test\\VR_Project_test.cpp",
+		"arguments": [
+			"D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test\\VR_Project_test.1.rsp"
+		],
+		"directory": "D:\\SoftWare\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Shared\\UE5\\VR_Project_test\\Source\\VR_Project_test\\VR_Project_test.h",
+		"arguments": [
+			"D:\\SoftWare\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Shared\\UE5\\VR_Project_test\\.vscode\\compileCommands_VR_Project_test\\VR_Project_test.1.rsp"
+		],
+		"directory": "D:\\SoftWare\\UE_5.3\\Engine\\Source"
+	}
+]

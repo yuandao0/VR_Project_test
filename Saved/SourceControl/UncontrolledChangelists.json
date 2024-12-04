@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Shared/UE5/VR_Project_test/Content/Box.uasset",
+				"D:/Shared/UE5/VR_Project_test/Content/ChamferBox.uasset",
+				"D:/Shared/UE5/VR_Project_test/Content/Sphere.uasset",
+				"D:/Shared/UE5/VR_Project_test/Content/MyActorBlueprint.uasset",
+				"D:/Shared/UE5/VR_Project_test/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Shared/UE5/VR_Project_test/Content/VRTemplate/Blueprints/VRGameMode.uasset"
+			]
+		}
+	]
+}
