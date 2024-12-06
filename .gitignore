@@ -43,10 +43,6 @@ Build/Linux/
 Engine/Extras/ThirdPartyNotUE/AutoSDK/
 
 # Ignore Unreal Engine specific temporary and cache files
-Saved/Cooked/
-Saved/Logs/
-Saved/Backup/
-Saved/StagedBuilds/
+Saved/
 DerivedDataCache/
-Intermediate/
 .vscode/
